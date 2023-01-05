@@ -9,5 +9,9 @@
 <body>
     <h1>Yo karepmu </h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat pariatur magnam soluta, nostrum natus sunt fuga rem neque vitae odit facilis voluptas distinctio consequuntur nihil impedit culpa ullam ipsam mollitia?</p>
+    <ul>
+        <li>one</li>
+        <li>two</li>
+    </ul>
 </body>
 </html>
